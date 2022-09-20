@@ -1,0 +1,247 @@
+fileFormatVersion: 2
+guid: ca077db8946129843897d9363d42f92c
+timeCreated: 1463612811
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cube
+    100002: Cube_1
+    100004: Cube_10
+    100006: Cube_11
+    100008: Cube_12
+    100010: Cube_13
+    100012: Cube_14
+    100014: Cube_15
+    100016: Cube_16
+    100018: Cube_17
+    100020: Cube_19
+    100022: Cube_2
+    100024: Cube_4
+    100026: Cube_5
+    100028: Cube_6
+    100030: Cube_7
+    100032: Cube_8
+    100034: Cube_9
+    100036: govde
+    100038: //RootNode
+    100040: pervane
+    400000: Cube
+    400002: Cube_1
+    400004: Cube_10
+    400006: Cube_11
+    400008: Cube_12
+    400010: Cube_13
+    400012: Cube_14
+    400014: Cube_15
+    400016: Cube_16
+    400018: Cube_17
+    400020: Cube_19
+    400022: Cube_2
+    400024: Cube_4
+    400026: Cube_5
+    400028: Cube_6
+    400030: Cube_7
+    400032: Cube_8
+    400034: Cube_9
+    400036: govde
+    400038: //RootNode
+    400040: pervane
+    2300000: Cube
+    2300002: Cube_1
+    2300004: Cube_10
+    2300006: Cube_11
+    2300008: Cube_12
+    2300010: Cube_13
+    2300012: Cube_14
+    2300014: Cube_15
+    2300016: Cube_16
+    2300018: Cube_17
+    2300020: Cube_19
+    2300022: Cube_2
+    2300024: Cube_4
+    2300026: Cube_5
+    2300028: Cube_6
+    2300030: Cube_7
+    2300032: Cube_8
+    2300034: Cube_9
+    2300036: pervane
+    3300000: Cube
+    3300002: Cube_1
+    3300004: Cube_10
+    3300006: Cube_11
+    3300008: Cube_12
+    3300010: Cube_13
+    3300012: Cube_14
+    3300014: Cube_15
+    3300016: Cube_16
+    3300018: Cube_17
+    3300020: Cube_19
+    3300022: Cube_2
+    3300024: Cube_4
+    3300026: Cube_5
+    3300028: Cube_6
+    3300030: Cube_7
+    3300032: Cube_8
+    3300034: Cube_9
+    3300036: pervane
+    4300000: pervane
+    4300002: Cube_19
+    4300004: Cube_16
+    4300006: Cube_15
+    4300008: Cube
+    4300010: Cube_17
+    4300012: Cube_14
+    4300014: Cube_13
+    4300016: Cube_12
+    4300018: Cube_11
+    4300020: Cube_10
+    4300022: Cube_9
+    4300024: Cube_8
+    4300026: Cube_7
+    4300028: Cube_6
+    4300030: Cube_5
+    4300032: Cube_4
+    4300034: Cube_2
+    4300036: Cube_1
+    7400000: pervane
+    7400002: ucakhareket
+    7400004: heli
+    7400006: perv
+    7400008: PervaneYavas
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: pervane
+      takeName: C4D Animation Take
+      firstFrame: 0
+      lastFrame: 8
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: govde
+        weight: 1
+      - path: govde/Cube
+        weight: 1
+      - path: govde/Cube_1
+        weight: 1
+      - path: govde/Cube_2
+        weight: 1
+      - path: govde/Cube_4
+        weight: 1
+      - path: govde/Cube_5
+        weight: 1
+      - path: govde/Cube_6
+        weight: 1
+      - path: govde/Cube_7
+        weight: 1
+      - path: govde/Cube_8
+        weight: 1
+      - path: govde/Cube_9
+        weight: 1
+      - path: govde/Cube_10
+        weight: 1
+      - path: govde/Cube_11
+        weight: 1
+      - path: govde/Cube_12
+        weight: 1
+      - path: govde/Cube_13
+        weight: 1
+      - path: govde/Cube_14
+        weight: 1
+      - path: govde/Cube_15
+        weight: 1
+      - path: govde/Cube_16
+        weight: 1
+      - path: govde/Cube_17
+        weight: 1
+      - path: govde/Cube_19
+        weight: 1
+      - path: pervane
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
